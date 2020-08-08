@@ -1,0 +1,10 @@
+root
+cat
+dog
+bat
+fat
+hatch
+catch
+match
+watch
+hat
